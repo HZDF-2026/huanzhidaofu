@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 联系作者 / Contact Author
+    url: mailto:15887015558@139.com
+    about: 直接联系论文作者葛世靖 / Directly contact the author Ge Shijing
+  - name: 仓库主页 / Repository Home
+    url: https://github.com/HZDF-2026/huanzhidaofu
+    about: 查看仓库主页 / View repository homepage
