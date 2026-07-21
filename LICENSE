@@ -1,24 +1,279 @@
-This is free and unencumbered software released into the public domain.
+Copyright © 2026 Ge Shijing (葛世靖)
+Kunming Unintellix Artificial Intelligence Technology Co., Ltd.
+(昆明寰智道赴人工智能科技有限公司)
+Kunming, Yunnan, China — Postal Code 650032
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+All rights reserved under the copyright laws of the United States of
+America and the People's Republic of China.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+=========================================================================
+                    COPYRIGHT LICENSE AGREEMENT
+              Under U.S. and P.R.C. Copyright Laws
+=========================================================================
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+This Copyright License Agreement ("Agreement") applies to all works
+contained in this repository, including but not limited to the research
+paper entitled "Toward Complete Grand Unification via Spectral Mixture
+Theory" (CDD v27.38), in both English and Chinese versions, in HTML and
+PDF formats, together with any accompanying files (collectively, the
+"Work").
 
-For more information, please refer to <https://unlicense.org>
+The copyright holder (the "Licensor") grants the permissions set forth
+below under both United States copyright law (Title 17, United States
+Code) and the Copyright Law of the People's Republic of China (《中华
+人民共和国著作权法》, as amended in 2020).
+
+-------------------------------------------------------------------------
+SECTION 1: COPYRIGHT NOTICE (17 U.S.C. § 401 / 著作权法 第十条)
+-------------------------------------------------------------------------
+
+Copyright © 2026 Ge Shijing (葛世靖), acting on behalf of Kunming
+Unintellix Artificial Intelligence Technology Co., Ltd. (昆明寰智道赴
+人工智能科技有限公司).
+
+The Licensor claims and reserves all rights in the Work under the
+copyright laws of the United States (17 U.S.C. §§ 102, 201) and the
+People's Republic of China (著作权法 第十一条).
+
+-------------------------------------------------------------------------
+SECTION 2: GRANT OF RIGHTS
+-------------------------------------------------------------------------
+
+Subject to the conditions set forth in Section 3, the Licensor hereby
+grants to any person or entity (the "Licensee") a worldwide,
+royalty-free, non-exclusive, perpetual license to exercise the
+following rights in the Work:
+
+  1. Reproduction — to reproduce the Work in any form or by any means,
+     including digital, electronic, or physical copies (17 U.S.C.
+     § 106(1); 著作权法 第十条第一款第五项 复制权).
+
+  2. Distribution — to distribute copies of the Work to the public
+     by sale, rental, lending, or any other transfer of ownership or
+     possession (17 U.S.C. § 106(3); 著作权法 第十条第一款第六项
+     发行权).
+
+  3. Adaptation — to create derivative works based upon the Work,
+     including translations, adaptations, and modifications (17 U.S.C.
+     § 106(2); 著作权法 第十条第一款第十四项 改编权).
+
+  4. Public Display — to display the Work publicly, including by means
+     of digital transmission (17 U.S.C. § 106(5); 著作权法 第十条
+     第一款第九项 表演权 and 第十项 放映权).
+
+  5. Digital Transmission — to make the Work available to the public
+     by wire or wireless means, including through the Internet (著作权
+     法 第十条第一款第十二项 信息网络传播权).
+
+This license covers both commercial and non-commercial uses.
+
+-------------------------------------------------------------------------
+SECTION 3: CONDITIONS
+-------------------------------------------------------------------------
+
+The Licensee's exercise of the rights granted in Section 2 is subject
+to the following conditions:
+
+  3.1 Attribution (17 U.S.C. § 106(1) fair use prerequisite;
+      著作权法 第十条第一款第二项 署名权)
+
+      The Licensee shall provide prominent attribution to the original
+      author in all copies or derivative works of the Work, by
+      including the following notice:
+
+          "Copyright © 2026 Ge Shijing (葛世靖).
+           Kunming Unintellix Artificial Intelligence Technology Co.,
+           Ltd. (昆明寰智道赴人工智能科技有限公司)."
+
+      Under the Copyright Law of the People's Republic of China, the
+      right of attribution (署名权) is a moral right (人身权) of the
+      author that is protected in perpetuity and CANNOT be waived,
+      transferred, or extinguished (著作权法 第二十二条). This condition
+      survives the expiration of all economic rights.
+
+  3.2 Integrity (著作权法 第十条第一款第四项 保护作品完整权)
+
+      The Licensee shall not distort, mutilate, or alter the Work in
+      a manner that is prejudicial to the author's honor or reputation.
+      Derivative works shall clearly indicate the modifications made
+      and shall not be represented as the original Work.
+
+      Under the Copyright Law of the People's Republic of China, the
+      right of integrity (保护作品完整权) is a moral right (人身权)
+      protected in perpetuity and CANNOT be waived or transferred
+      (著作权法 第二十二条).
+
+  3.3 Modification (著作权法 第十条第一款第三项 修改权)
+
+      The Licensee may create derivative works as permitted under
+      Section 2(3), provided that the author's right of modification
+      (修改权) is respected: any modifications shall be clearly
+      identified, and the modified Work shall not be attributed to the
+      original author as if it were the author's own expression.
+
+      Under the Copyright Law of the People's Republic of China, the
+      right of modification (修改权) is a moral right (人身权) protected
+      in perpetuity and CANNOT be waived or transferred (著作权法
+      第二十二条).
+
+  3.4 No Endorsement
+
+      The Licensee shall not use the name of the author or the
+      Licensor to assert or imply endorsement of any derivative work
+      without prior written consent.
+
+-------------------------------------------------------------------------
+SECTION 4: RIGHTS RETAINED
+-------------------------------------------------------------------------
+
+  4.1 Under U.S. Copyright Law (17 U.S.C.):
+
+      (a) All rights not expressly granted herein are reserved by the
+          Licensor, including but not limited to the right of public
+          performance (17 U.S.C. § 106(4)).
+
+      (b) The term of copyright protection is the life of the author
+          plus seventy (70) years (17 U.S.C. § 302(a)). Upon
+          expiration, the Work shall enter the public domain in the
+          United States, subject to any successor rights.
+
+  4.2 Under P.R.C. Copyright Law (著作权法):
+
+      (a) Moral Rights (人身权): The author's right of publication
+          (发表权), right of attribution (署名权), right of
+          modification (修改权), and right of integrity (保护作品
+          完整权) are retained by the author in perpetuity and CANNOT
+          be waived, transferred, or extinguished under any
+          circumstances (著作权法 第二十二条). These rights are NOT
+          licensed to the Licensee and remain exclusively with the
+          author.
+
+      (b) Economic Rights (财产权): The economic rights licensed under
+          Section 2 include reproduction (复制权), distribution
+          (发行权), adaptation (改编权), translation (翻译权),
+          compilation (汇编权), and information network dissemination
+          (信息网络传播权). The term of protection for economic rights
+          is the life of the author plus fifty (50) years (著作权法
+          第二十三条).
+
+      (c) Notwithstanding the above, the moral rights of attribution
+          (署名权), modification (修改权), and integrity (保护作品完整
+          权) shall be honored worldwide, including in jurisdictions
+          that do not formally recognize perpetual moral rights, as a
+          contractual condition of this Agreement.
+
+-------------------------------------------------------------------------
+SECTION 5: LIMITATIONS AND FAIR USE
+-------------------------------------------------------------------------
+
+Nothing in this Agreement is intended to reduce, limit, or restrict
+any rights arising from:
+
+  (a) Fair use under 17 U.S.C. § 107 (美国版权法 合理使用);
+  (b) Reasonable use (合理使用) under 著作权法 第二十四条 (中国著作权
+      法 法定许可); or
+  (c) Any other limitations or exceptions to copyright available under
+      applicable law.
+
+-------------------------------------------------------------------------
+SECTION 6: NO WARRANTY AND LIMITATION OF LIABILITY
+-------------------------------------------------------------------------
+
+  6.1 THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+      EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+      OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+      NONINFRINGEMENT.
+
+  6.2 IN NO EVENT SHALL THE AUTHOR OR THE LICENSOR BE LIABLE FOR ANY
+      CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+      CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+      CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE
+      WORK.
+
+  6.3 本作品按"现状"提供，不附带任何明示或暗示的担保，包括但不限于
+      适销性、特定用途适用性或不侵权的担保。在任何情况下，作者或许可方
+      均不对因使用本作品而产生的任何直接、间接、附带、特殊或后果性损害
+      承担责任。
+
+-------------------------------------------------------------------------
+SECTION 7: GOVERNING LAW AND JURISDICTION
+-------------------------------------------------------------------------
+
+  7.1 This Agreement shall be interpreted in accordance with the
+      copyright laws of both the United States of America (Title 17,
+      U.S. Code) and the People's Republic of China (《中华人民共和国
+      著作权法》).
+
+  7.2 In the event of a conflict between the two legal frameworks
+      regarding the scope of rights granted or retained, the
+      interpretation that provides the greater protection to the
+      author's moral rights (署名权、修改权、保护作品完整权) shall
+      prevail, consistent with the Berne Convention for the Protection
+      of Literary and Artistic Works (巴黎公约) and the Agreement on
+      Trade-Related Aspects of Intellectual Property Rights (TRIPS
+      Agreement, 与贸易有关的知识产权协定).
+
+  7.3 本协议的解释应同时符合美国版权法（美国法典第17编）和中华人民
+      共和国著作权法的规定。当两套法律框架在权利授予或保留范围上发生
+      冲突时，以对作者人身权（署名权、修改权、保护作品完整权）提供更强
+      保护的解释为准，此与《伯尔尼保护文学和艺术作品公约》及《与贸易有
+      关的知识产权协定》的精神一致。
+
+-------------------------------------------------------------------------
+SECTION 8: TERMINATION
+-------------------------------------------------------------------------
+
+  8.1 This license is perpetual and shall not terminate by operation
+      of law, except as provided in Section 8.2.
+
+  8.2 The Licensor reserves the right to terminate this license with
+      respect to any Licensee who materially breaches the conditions of
+      Section 3 (Attribution, Integrity, Modification, and
+      No Endorsement). Upon termination, the Licensee shall cease all
+      exercise of the rights granted under Section 2; provided,
+      however, that the moral rights of the author under P.R.C.
+      Copyright Law shall continue to be protected in perpetuity
+      regardless of termination.
+
+-------------------------------------------------------------------------
+                   本许可协议中文摘要 (SUMMARY IN CHINESE)
+-------------------------------------------------------------------------
+
+版权所有 © 2026 葛世靖（昆明寰智道赴人工智能科技有限公司）。
+
+本协议依据美国版权法（美国法典第17编）及中华人民共和国著作权法
+（2020年修正）授予许可。
+
+【人身权（永久保留，不可转让）】
+根据《中华人民共和国著作权法》第二十二条，作者的署名权、修改权、
+保护作品完整权的保护期不受限制，且不可转让、不可放弃。任何使用本
+作品的行为均须：
+  - 注明作者姓名：葛世靖（Ge Shijing）
+  - 注明作者所属机构：昆明寰智道赴人工智能科技有限公司
+  - 不得歪曲、篡改原作品
+  - 修改后的作品须标明修改内容，不得冒充原作
+
+【财产权（广泛许可）】
+根据美国版权法及中国著作权法，许可方授予以下非独占、永久、免费的
+全球许可：复制权、发行权、改编权、翻译权、汇编权、信息网络传播权
+（含商业及非商业用途）。
+
+【保护期】
+  - 美国版权法：作者终生加70年（17 U.S.C. § 302）
+  - 中国著作权法：财产权为作者终生加50年（著作权法第二十三条）
+  - 人身权（署名权、修改权、保护作品完整权）：永久保护（著作权法
+    第二十二条）
+
+【免责声明】
+本作品按"现状"提供，不附带任何担保。作者及许可方不对因使用本作品
+产生的任何损害承担责任。
+
+-------------------------------------------------------------------------
+For inquiries regarding this license, contact:
+  Email: 15887015558@139.com
+  Address: Kunming, Yunnan, China — Postal Code 650032
+-------------------------------------------------------------------------
+
+This file replaces the previous Unlicense (public domain dedication).
+The Work is no longer in the public domain; copyright is asserted and
+a license is granted as set forth above.
